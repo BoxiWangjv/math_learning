@@ -1,0 +1,15 @@
+{
+    "attachment_folder": "vx_attachments",
+    "config_mgr": "vx.vnotex",
+    "created_time": "2023-09-12T07:41:56Z",
+    "description": "研究生阶段数学课的笔记本",
+    "extra_configs": {
+    },
+    "history": [
+    ],
+    "image_folder": "vx_images",
+    "name": "math_notebook",
+    "tag_graph": "",
+    "version": 3,
+    "version_controller": "dummy.vnotex"
+}
